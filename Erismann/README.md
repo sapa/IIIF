@@ -23,7 +23,7 @@ Les images retenues sont donc décrites sous la forme suivante :
 ### Métadonnées descriptives (II)
 1. Livrées sous forme CSV (avec PID et URL des DC), les métadonnées descriptives ne sont pas ingestées dans le dépôt d'archives numériques. Elles sont transformées en JSON-LD et importées dans la plateforme perfoming-arts.ch (SPAP).
 ### Manifest
-1. On va créé les Manifest IIIF (voir [Manifest-Erismann](Manifest-Erismann)) en tirant des informations de :
+1. On va créé les Manifest IIIF (voir [Manifest-Erismann](Manifest-Erismann.nd)) en tirant des informations de :
 -  des notices SPAP (URL)
 -  les métadonnées embarquées
 2. Déposer les Manifestes sur le serveur.
