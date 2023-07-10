@@ -1,6 +1,8 @@
 # IIIF
 On présente ici la manière dont la Fondation SAPA utilise IIIF.
 
+Plus de détails sur l'infrastructure sont disponibles dans le [fichier correspondant](INFRASTRUCTURE.md).
+
 Voir aussi les travaux de Julien A. Raemy pour nous : https://github.com/julsraemy/SAPA-IIIF
 # Projets
 Voici la liste des projets menés dans le domaine :
