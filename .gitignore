@@ -1,0 +1,4 @@
+# Exclude generated files
+collections
+Erismann/iiif_image_sizes.csv
+*/manifests
