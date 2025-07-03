@@ -1,0 +1,2332 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1.json",
+    "label": {
+        "en": [
+            "SAPA_Jahresbericht_2022_FR-1"
+        ]
+    },
+    "type": "Manifest",
+    "behavior": [
+        "paged"
+    ],
+    "viewingDirection": "left-to-right",
+    "rendering": [
+        {
+            "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1/full/max/0/default.jpg",
+            "type": "Document",
+            "label": {
+                "de": "PDF",
+                "fr": "PDF",
+                "en": "PDF"
+            },
+            "format": "application/pdf"
+        }
+    ],
+    "items": [
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p1",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 1"
+                ],
+                "de": [
+                    "Seite 1"
+                ],
+                "fr": [
+                    "Page 1"
+                ],
+                "it": [
+                    "Pagina 1"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p1/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0001-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;1/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;1",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p2",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 2"
+                ],
+                "de": [
+                    "Seite 2"
+                ],
+                "fr": [
+                    "Page 2"
+                ],
+                "it": [
+                    "Pagina 2"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p2/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0002-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;2/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;2",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p3",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 3"
+                ],
+                "de": [
+                    "Seite 3"
+                ],
+                "fr": [
+                    "Page 3"
+                ],
+                "it": [
+                    "Pagina 3"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p3/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0003-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;3/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;3",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p4",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 4"
+                ],
+                "de": [
+                    "Seite 4"
+                ],
+                "fr": [
+                    "Page 4"
+                ],
+                "it": [
+                    "Pagina 4"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p4/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0004-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;4/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;4",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p5",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 5"
+                ],
+                "de": [
+                    "Seite 5"
+                ],
+                "fr": [
+                    "Page 5"
+                ],
+                "it": [
+                    "Pagina 5"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p5/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0005-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;5/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;5",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p6",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 6"
+                ],
+                "de": [
+                    "Seite 6"
+                ],
+                "fr": [
+                    "Page 6"
+                ],
+                "it": [
+                    "Pagina 6"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p6/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0006-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;6/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;6",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p7",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 7"
+                ],
+                "de": [
+                    "Seite 7"
+                ],
+                "fr": [
+                    "Page 7"
+                ],
+                "it": [
+                    "Pagina 7"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p7/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0007-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;7/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;7",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p8",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 8"
+                ],
+                "de": [
+                    "Seite 8"
+                ],
+                "fr": [
+                    "Page 8"
+                ],
+                "it": [
+                    "Pagina 8"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p8/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0008-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;8/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;8",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p9",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 9"
+                ],
+                "de": [
+                    "Seite 9"
+                ],
+                "fr": [
+                    "Page 9"
+                ],
+                "it": [
+                    "Pagina 9"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p9/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0009-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;9/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;9",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p10",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 10"
+                ],
+                "de": [
+                    "Seite 10"
+                ],
+                "fr": [
+                    "Page 10"
+                ],
+                "it": [
+                    "Pagina 10"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p10/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0010-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;10/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;10",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p11",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 11"
+                ],
+                "de": [
+                    "Seite 11"
+                ],
+                "fr": [
+                    "Page 11"
+                ],
+                "it": [
+                    "Pagina 11"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p11/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0011-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;11/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;11",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p12",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 12"
+                ],
+                "de": [
+                    "Seite 12"
+                ],
+                "fr": [
+                    "Page 12"
+                ],
+                "it": [
+                    "Pagina 12"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p12/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0012-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;12/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;12",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p12"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p13",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 13"
+                ],
+                "de": [
+                    "Seite 13"
+                ],
+                "fr": [
+                    "Page 13"
+                ],
+                "it": [
+                    "Pagina 13"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p13/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0013-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;13/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;13",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p13"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p14",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 14"
+                ],
+                "de": [
+                    "Seite 14"
+                ],
+                "fr": [
+                    "Page 14"
+                ],
+                "it": [
+                    "Pagina 14"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p14/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0014-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;14/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;14",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p14"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p15",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 15"
+                ],
+                "de": [
+                    "Seite 15"
+                ],
+                "fr": [
+                    "Page 15"
+                ],
+                "it": [
+                    "Pagina 15"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p15/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0015-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;15/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;15",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p15"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p16",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 16"
+                ],
+                "de": [
+                    "Seite 16"
+                ],
+                "fr": [
+                    "Page 16"
+                ],
+                "it": [
+                    "Pagina 16"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p16/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0016-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;16/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;16",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p16"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p17",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 17"
+                ],
+                "de": [
+                    "Seite 17"
+                ],
+                "fr": [
+                    "Page 17"
+                ],
+                "it": [
+                    "Pagina 17"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p17/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0017-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;17/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;17",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p17"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p18",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 18"
+                ],
+                "de": [
+                    "Seite 18"
+                ],
+                "fr": [
+                    "Page 18"
+                ],
+                "it": [
+                    "Pagina 18"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p18/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0018-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;18/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;18",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p18"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p19",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 19"
+                ],
+                "de": [
+                    "Seite 19"
+                ],
+                "fr": [
+                    "Page 19"
+                ],
+                "it": [
+                    "Pagina 19"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p19/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0019-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;19/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;19",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p19"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p20",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 20"
+                ],
+                "de": [
+                    "Seite 20"
+                ],
+                "fr": [
+                    "Page 20"
+                ],
+                "it": [
+                    "Pagina 20"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p20/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0020-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;20/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;20",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p20"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p21",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 21"
+                ],
+                "de": [
+                    "Seite 21"
+                ],
+                "fr": [
+                    "Page 21"
+                ],
+                "it": [
+                    "Pagina 21"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p21/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0021-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;21/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;21",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p21"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p22",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 22"
+                ],
+                "de": [
+                    "Seite 22"
+                ],
+                "fr": [
+                    "Page 22"
+                ],
+                "it": [
+                    "Pagina 22"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p22/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0022-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;22/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;22",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p22"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p23",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 23"
+                ],
+                "de": [
+                    "Seite 23"
+                ],
+                "fr": [
+                    "Page 23"
+                ],
+                "it": [
+                    "Pagina 23"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p23/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0023-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;23/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;23",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p23"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p24",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 24"
+                ],
+                "de": [
+                    "Seite 24"
+                ],
+                "fr": [
+                    "Page 24"
+                ],
+                "it": [
+                    "Pagina 24"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p24/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0024-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;24/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;24",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p24"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p25",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 25"
+                ],
+                "de": [
+                    "Seite 25"
+                ],
+                "fr": [
+                    "Page 25"
+                ],
+                "it": [
+                    "Pagina 25"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p25/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0025-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;25/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;25",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p25"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p26",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 26"
+                ],
+                "de": [
+                    "Seite 26"
+                ],
+                "fr": [
+                    "Page 26"
+                ],
+                "it": [
+                    "Pagina 26"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p26/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0026-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;26/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;26",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p26"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p27",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 27"
+                ],
+                "de": [
+                    "Seite 27"
+                ],
+                "fr": [
+                    "Page 27"
+                ],
+                "it": [
+                    "Pagina 27"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p27/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0027-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;27/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;27",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p27"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p28",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 28"
+                ],
+                "de": [
+                    "Seite 28"
+                ],
+                "fr": [
+                    "Page 28"
+                ],
+                "it": [
+                    "Pagina 28"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p28/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0028-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;28/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;28",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p28"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p29",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 29"
+                ],
+                "de": [
+                    "Seite 29"
+                ],
+                "fr": [
+                    "Page 29"
+                ],
+                "it": [
+                    "Pagina 29"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p29/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0029-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;29/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;29",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p29"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p30",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 30"
+                ],
+                "de": [
+                    "Seite 30"
+                ],
+                "fr": [
+                    "Page 30"
+                ],
+                "it": [
+                    "Pagina 30"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p30/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0030-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;30/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;30",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p30"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p31",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 31"
+                ],
+                "de": [
+                    "Seite 31"
+                ],
+                "fr": [
+                    "Page 31"
+                ],
+                "it": [
+                    "Pagina 31"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p31/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0031-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;31/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;31",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p31"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p32",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 32"
+                ],
+                "de": [
+                    "Seite 32"
+                ],
+                "fr": [
+                    "Page 32"
+                ],
+                "it": [
+                    "Pagina 32"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p32/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0032-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;32/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;32",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p32"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p33",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 33"
+                ],
+                "de": [
+                    "Seite 33"
+                ],
+                "fr": [
+                    "Page 33"
+                ],
+                "it": [
+                    "Pagina 33"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p33/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0033-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;33/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;33",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p33"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p34",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 34"
+                ],
+                "de": [
+                    "Seite 34"
+                ],
+                "fr": [
+                    "Page 34"
+                ],
+                "it": [
+                    "Pagina 34"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p34/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0034-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;34/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;34",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p34"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p35",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 35"
+                ],
+                "de": [
+                    "Seite 35"
+                ],
+                "fr": [
+                    "Page 35"
+                ],
+                "it": [
+                    "Pagina 35"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p35/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0035-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;35/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;35",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p35"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p36",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 36"
+                ],
+                "de": [
+                    "Seite 36"
+                ],
+                "fr": [
+                    "Page 36"
+                ],
+                "it": [
+                    "Pagina 36"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p36/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0036-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;36/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;36",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p36"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p37",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 37"
+                ],
+                "de": [
+                    "Seite 37"
+                ],
+                "fr": [
+                    "Page 37"
+                ],
+                "it": [
+                    "Pagina 37"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p37/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0037-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;37/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;37",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p37"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p38",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 38"
+                ],
+                "de": [
+                    "Seite 38"
+                ],
+                "fr": [
+                    "Page 38"
+                ],
+                "it": [
+                    "Pagina 38"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p38/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0038-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;38/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;38",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p38"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p39",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 39"
+                ],
+                "de": [
+                    "Seite 39"
+                ],
+                "fr": [
+                    "Page 39"
+                ],
+                "it": [
+                    "Pagina 39"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p39/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0039-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;39/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;39",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p39"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p40",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 40"
+                ],
+                "de": [
+                    "Seite 40"
+                ],
+                "fr": [
+                    "Page 40"
+                ],
+                "it": [
+                    "Pagina 40"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p40/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0040-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;40/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;40",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p40"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p41",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 41"
+                ],
+                "de": [
+                    "Seite 41"
+                ],
+                "fr": [
+                    "Page 41"
+                ],
+                "it": [
+                    "Pagina 41"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p41/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0041-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;41/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;41",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p41"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p42",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 42"
+                ],
+                "de": [
+                    "Seite 42"
+                ],
+                "fr": [
+                    "Page 42"
+                ],
+                "it": [
+                    "Pagina 42"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p42/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0042-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;42/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;42",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p42"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p43",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 43"
+                ],
+                "de": [
+                    "Seite 43"
+                ],
+                "fr": [
+                    "Page 43"
+                ],
+                "it": [
+                    "Pagina 43"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p43/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0043-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;43/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;43",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p43"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p44",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 44"
+                ],
+                "de": [
+                    "Seite 44"
+                ],
+                "fr": [
+                    "Page 44"
+                ],
+                "it": [
+                    "Pagina 44"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p44/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0044-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;44/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;44",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p44"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p45",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 45"
+                ],
+                "de": [
+                    "Seite 45"
+                ],
+                "fr": [
+                    "Page 45"
+                ],
+                "it": [
+                    "Pagina 45"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p45/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0045-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;45/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;45",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p45"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p46",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 46"
+                ],
+                "de": [
+                    "Seite 46"
+                ],
+                "fr": [
+                    "Page 46"
+                ],
+                "it": [
+                    "Pagina 46"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p46/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0046-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;46/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;46",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p46"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p47",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 47"
+                ],
+                "de": [
+                    "Seite 47"
+                ],
+                "fr": [
+                    "Page 47"
+                ],
+                "it": [
+                    "Pagina 47"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p47/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0047-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;47/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;47",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p47"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p48",
+            "type": "Canvas",
+            "height": 1240,
+            "width": 874,
+            "label": {
+                "en": [
+                    "Page 48"
+                ],
+                "de": [
+                    "Seite 48"
+                ],
+                "fr": [
+                    "Page 48"
+                ],
+                "it": [
+                    "Pagina 48"
+                ]
+            },
+            "items": [
+                {
+                    "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/page/p48/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/annotation/p0048-image",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;48/full/max/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1240,
+                                "width": 874,
+                                "service": [
+                                    {
+                                        "id": "https://media.performing-arts.ch/iiif/3/document%2fSAPA_Jahresbericht_2022_FR-1;48",
+                                        "type": "ImageService3",
+                                        "profile": "level1"
+                                    }
+                                ]
+                            },
+                            "target": "https://media.performing-arts.ch/iiif/manifest/SAPA_Jahresbericht_2022_FR-1/canvas/p48"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

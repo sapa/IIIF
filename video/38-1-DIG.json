@@ -1,0 +1,327 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "Manifest",
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Copyright"
+      ]
+    },
+    "value": {
+      "en": [
+        "Alain Bernard"
+      ]
+    }
+  },
+  "homepage": [
+    {
+      "id": "https://sapa.swiss",
+      "type": "Text",
+      "label": {
+        "en": [
+          "SAPA Homepage"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "provider": [
+    {
+      "id": "https://www.wikidata.org/entity/Q50920401",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "SAPA, Swiss Archive of the Performing Arts"
+        ],
+        "de": [
+          "Stiftung SAPA, Schweizer Archiv der Darstellenden Künste"
+        ],
+        "fr": [
+          "Fondation SAPA, Archives suisses des arts de la scène"
+        ],
+        "it": [
+          "Fondazione SAPA, Archivio svizzero delle arti della scena"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://sapa.swiss/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "The SAPA Foundation, Swiss Archive of the Performing Arts, collects documents and objects of importance to the history of the performing arts and makes them accessible to a wider audience."
+            ],
+            "de": [
+              "Die Stiftung SAPA, Schweizer Archiv der Darstellenden Künste, sammelt Dokumente und Objekte, die für die Geschichte der Darstellenden Künste bedeutsam sind, und stellt diese einem breiten Publikum zur Verfügung."
+            ],
+            "fr": [
+              "La Fondation SAPA, Archives suisses des arts de la scène, collecte et met à disposition de tous les publics les documents et objets constituant l‘histoire des arts de la scène en Suisse. Sa mission: préserver les traces de ces arts éphémères et complexes pour les transmettre aux générations futures."
+            ],
+            "it": [
+              "SAPA raccoglie e mette a disposizione del pubblico documenti e oggetti di rilevanza storica per le arti sceniche in Svizzera. La Fondazione si pone l’obiettivo di preservare le tracce di queste arti effimere e complesse per tramandarle alle generazioni future."
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://memobase.ch/sites/default/files/2021-05/sap-logo.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 100,
+          "width": 260
+        }
+      ]
+    }
+  ],
+  "viewingDirection": "left-to-right",
+  "id": "https://media.performing-arts.ch/iiif/manifest/38-1-DIG.json",
+  "label": {
+    "de": [
+      "Alain Bernard - Choreograph und Jazztanz-Pädagoge"
+    ]
+  },
+  "summary": {
+    "de": [
+      "Alain Bernard - Choreograph und Jazztanz-Pädagoge"
+    ]
+  },
+  "seeAlso": [
+    {
+      "id": "http://data.performing-arts.ch/r/abab2b90-2149-4667-af66-d225a830e733",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Record of the video on Swiss performing arts platform"
+        ]
+      },
+      "format": "text/html"
+    },
+    {
+      "id": "http://data.performing-arts.ch/a/6c42c391-55ba-4272-9619-591a5add1573",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Record of Alain Bernard on Swiss performing arts platform"
+        ]
+      },
+      "format": "text/html"
+    },
+    {
+      "id": "http://data.performing-arts.ch/a/672bd40d-964c-40e4-a885-c8bd09e93c32",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Record of Hans Werner Henze on Swiss performing arts platform"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Identifier"
+        ],
+        "de": [
+          "Signatur"
+        ],
+        "fr": [
+          "Cote"
+        ],
+        "it": [
+          "Segnatura"
+        ]
+      },
+      "value": {
+        "en": [
+          "38-1"
+        ],
+        "de": [
+          "38-1"
+        ],
+        "fr": [
+          "38-1"
+        ],
+        "it": [
+          "38-1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Description"
+        ],
+        "de": [
+          "Beschreibung"
+        ],
+        "fr": [
+          "Description"
+        ],
+        "it": [
+          "Descrizione"
+        ]
+      },
+      "value": {
+        "en": [
+          "Das einzige audiovisuelle Dokument zeigt ein kurzes Porträt"
+        ],
+        "de": [
+          "Das einzige audiovisuelle Dokument zeigt ein kurzes Porträt"
+        ],
+        "fr": [
+          "Das einzige audiovisuelle Dokument zeigt ein kurzes Porträt"
+        ],
+        "it": [
+          "Das einzige audiovisuelle Dokument zeigt ein kurzes Porträt"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ],
+        "de": [
+          "Urheber"
+        ],
+        "fr": [
+          "Auteur"
+        ],
+        "it": [
+          "Autore"
+        ]
+      },
+      "value": {
+        "en": [
+          "Alain Bernard"
+        ],
+        "de": [
+          "Alain Bernard"
+        ],
+        "fr": [
+          "Alain Bernard"
+        ],
+        "it": [
+          "Alain Bernard"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://media.performing-arts.ch/iiif/manifest/38-1-DIG/video001",
+      "type": "Canvas",
+      "duration": 556.0,
+      "label": {
+        "en": [
+          "Video"
+        ],
+        "de": [
+          "Video"
+        ],
+        "fr": [
+          "Vidéo"
+        ],
+        "it": [
+          "Vidéo"
+        ]
+      },
+      "accompanyingCanvas": {
+        "id": "https://media.performing-arts.ch/iiif/manifest/38-1-DIG/video001/illustration",
+        "type": "Canvas",
+        "label": {
+          "en": [
+            "Tape"
+          ]
+        },
+        "height": 662,
+        "width": 1024,
+        "items": [
+          {
+            "id": "https://media.performing-arts.ch/iiif/manifest/38-1-DIG/video001/illustration/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://media.performing-arts.ch/iiif/manifest/38-1-DIG/video001/illustration/image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://media.performing-arts.ch/iiif/3/image%2F38-1-DIG_videostill/full/738,540/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 540,
+                  "width": 738,
+                  "service": [
+                    {
+                      "id": "https://media.performing-arts.ch/iiif/3/image%2F38-1-DIG_videostill",
+                      "type": "ImageService3",
+                      "profile": "level1"
+                    }
+                  ]
+                },
+                "target": "https://media.performing-arts.ch/iiif/manifest/38-1-DIG/video001/illustration"
+              }
+            ]
+          }
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://media.performing-arts.ch/iiif/3/image%2F38-1-DIG_videostill/full/738,540/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 540,
+          "width": 738,
+          "service": [
+            {
+              "id": "https://media.performing-arts.ch/iiif/3/image%2F38-1-DIG_videostill",
+              "profile": "level0",
+              "type": "ImageService3",
+              "sizes": [
+                {
+                  "width": 64,
+                  "height": 47
+                },
+                {
+                  "width": 128,
+                  "height": 94
+                },
+                {
+                  "width": 256,
+                  "height": 187
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://media.performing-arts.ch/iiif/manifest/38-1-DIG/video001/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://media.performing-arts.ch/iiif/manifest/38-1-DIG/video001/1/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://player.vimeo.com/external/796580677.m3u8?s=c95e5b1207ce52605aee30e69be0d43dce4d4027&logging=false",
+                "type": "Video",
+                "height": 540,
+                "width": 738,
+                "duration": 556.0,
+                "format": "application/x-mpegurl"
+              },
+              "target": "https://media.performing-arts.ch/iiif/manifest/38-1-DIG/video00"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
